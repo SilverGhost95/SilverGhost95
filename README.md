@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @SilverGhost95
+-  @SilverGhost95
 - 👀 I’m interested in Football and Music
-- 🌱 I’m currently learning Java and Sql
-- 💞️ I’m looking to collaborate on worthy Projects 
+- 🌱 Adept @ Java, C, SQL, Databases, HTML, PHP, ASP.NET, MVC, PYTHON, Mobile & Web Design
+- 💞️ I’m looking to collaborate on Projects 
 - 📫 How to reach me: GitHub
-
 
